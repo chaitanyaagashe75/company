@@ -17,6 +17,7 @@ public class Company  {
     private String turnover;
     private String surname;
     private String college;
+    private String scholling;
 
     public Company(int id, String name, String turnover) {
         this.id = id;
